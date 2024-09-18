@@ -1,0 +1,3 @@
+In Python you can print
+In Python you can loop
+In Python you can create dictionary
